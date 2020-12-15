@@ -14,7 +14,7 @@ For this part, I’d like the source code for my lambda function that collects t
 ![cluster_iamge](https://github.com/Haiqiong-20/project03-2/blob/main/asserts/kinesis_config.png)
 
 ### S3 Bucket 
-![cluster_iamge]()
+![cluster_iamge](https://github.com/Haiqiong-20/project03-2/blob/main/asserts/screenshot_of_s3_bucket.png)
 
 
 ## Part 3: Data Analyzer
