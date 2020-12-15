@@ -11,8 +11,10 @@ I am to collect one full day’s worth of stock HIGH and LOW prices for each com
 ## Part 2: Data Collector
 For this part, I’d like the source code for my lambda function that collects the data from yfinance and puts into the firehose stream.It is proven by screeshots of my kinesis stream and my S3 folder content.
 ### Kinesis Config
-![cluster_iamge]()
+![cluster_iamge](https://github.com/Haiqiong-20/project03-2/blob/main/asserts/kinesis_config.png)
 
+### S3 Bucket 
+![cluster_iamge]()
 
 
 ## Part 3: Data Analyzer
