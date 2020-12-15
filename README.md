@@ -3,17 +3,7 @@ For this project, you are tasked with provisioning a Lambda function to generate
 
 
 ## Part 1: Data Transformation with Lamda
-In mylambda function, using the yfinance module, I will grab pricing information for each of the following stocks:
-Facebook (FB). 
-Shopify (SHOP). 
-Beyond Meat (BYND). 
-Netflix (NFLX). 
-Pinterest (PINS). 
-Square (SQ). 
-The Trade Desk (TTD). 
-Okta (OKTA). 
-Snap (SNAP). 
-Datadog (DDOG). 
+In mylambda function, using the yfinance module, I will grab pricing information for each of the following stocks,Facebook (FB), Shopify (SHOP), Beyond Meat (BYND),  Netflix (NFLX),Pinterest (PINS), Square (SQ),The Trade Desk (TTD),Okta (OKTA),Snap (SNAP),and Datadog (DDOG).
 I am to collect one full day’s worth of stock HIGH and LOW prices for each company listed above on Tuesday, December 1st 2020, at a five minute interval. Note that by “full day” we mean one day of stock trading, which is not 24 hours. I attempt to collect this data “in real time” (of course this would require usage of the Cloudwatch Events trigger on Lambda). 
 
 
